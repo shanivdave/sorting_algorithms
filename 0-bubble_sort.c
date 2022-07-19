@@ -1,8 +1,3 @@
-#/*
- * File: 0-bubble_sort.c
- * Auth: Dagem Tsehay
- */
-
 #include "sort.h"
 
 /**
